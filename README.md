@@ -30,5 +30,3 @@ This PoC demonstrates:
 - Autonomous decision-making using Agentic AI logic
 - Alert and response simulation
 
-## Hackathon
-Developed as a Proof of Concept for eRaksha Hackathon 2026.
